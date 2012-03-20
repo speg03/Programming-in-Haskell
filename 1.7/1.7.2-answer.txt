@@ -1,0 +1,9 @@
+定義:
+  sum [] = 0
+  sum (x:xs) = x + sum xs
+
+sum [x]
+= sum (x:[])
+= x + sum []
+= x + 0
+= x
