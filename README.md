@@ -5,5 +5,5 @@
 * プログラミングHaskell
   * Graham Hutton 著 / 山本和彦 訳
   * オーム社
-  * 訳者サポートページ: http://www.mew.org/~kazu/doc/book/haskell
+  * 訳者サポートページ: http://www.mew.org/~kazu/doc/book/haskell.html
   * Amazon.co.jp: http://www.amazon.co.jp/dp/4274067815/
